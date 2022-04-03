@@ -21,3 +21,9 @@
   align-items: center;
   justify-content: center;
 }
+
+.heroBackground {
+  background: url(../../static/img/sec2-min.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
